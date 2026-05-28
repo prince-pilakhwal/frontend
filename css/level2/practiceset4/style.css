@@ -1,0 +1,64 @@
+.yu{
+
+    height:100px;
+    width:100px;
+    
+   
+    display:inline-block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    margin:10px;
+}
+#two{
+
+    height: 60px;
+    width:2000px;
+    background-color: #0F1111;
+   
+
+}
+#a{
+    color:orange;
+    margin-right: 200px;
+    font-size: 25px;
+}
+img{
+    height:45px;
+}
+input{
+
+    background-color: white;
+    height:30px;
+  align-items: center;
+}
+select{
+
+    font-family: Amazon Ember,Arial,sans-serif;
+}
+.l{
+    color:White;
+    margin-right: 200px;
+}
+button{
+    background-color: orange;
+    color:white;
+}
+input{
+  width:150px;
+  height:15px;
+}
+#height{
+
+    height:500px;
+}
+pre{
+    text-align: center;
+    font-family: Arial;
+    color:#DDDDDD
+}
+footer{
+    background-color: #0F1111;
+    height:250px;
+    
+}

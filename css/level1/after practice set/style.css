@@ -1,0 +1,28 @@
+p{
+
+    text-align:right;
+    text-decoration:line-through;
+    text-decoration:underline;
+
+    font-weight:400;
+    font-family:serif;
+}
+#a{font-family:sans-serif;
+     text-align:center;
+    font-size:20px;
+    line-height:normal;
+    text-transform:uppercase;
+
+
+
+
+}
+#b{
+    font-family: 'Segoe UI';
+    line-height:2px;
+}
+#c{
+
+    text-align: center;
+    text-transform: capitalize;
+}

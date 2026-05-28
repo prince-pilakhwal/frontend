@@ -1,0 +1,28 @@
+
+h2{ 
+    color:cyan;
+}
+button{
+    color:crimson;
+     background-color: cornsilk;
+}
+
+body{
+
+    background-color:blueviolet;
+}
+h3{
+    color:#aa00ff;
+}
+#headingone{
+    color:chocolate;
+}
+#headingtwo{
+
+    color:bisque;
+}
+.MyClass{
+
+    color:black;
+}
+
