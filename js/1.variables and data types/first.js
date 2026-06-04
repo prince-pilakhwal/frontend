@@ -85,6 +85,47 @@ const is not to leave undefined*/
     console.log(c);
 }
 /*you can also see the datatype by using 
-typeof (nameofvariable) in the console ,
+typeof nameofvariable in the console ,
 pls do it to see it urself*/
 
+let pricee=100.50;
+isFriend=false;
+let x=null;
+/*check its type and value in
+console*/
+
+
+let v=BigInt("123");
+let w=Symbol("Hello!");
+
+/*object*/
+
+const  student={
+fulllName:"rahul kumar",
+age:16,
+cgpa:8.2,
+isPass:true,                   
+
+}
+/*note theres a coma not semicolon
+after each key:value,}*/
+console.log(student.age);
+console.log(student["cgpa"]);
+
+student.age=student.age + 1;
+console.log(student.age);
+
+student["fulllName"]="Rahul Sharma";
+console.log(student.fulllName);
+
+/*
+also one more thing to note
+
+in console,
+if  u do 1+2 output would be 3
+but if u do "12" +1 
+output would be "121"
+because in string it adds the other
+string just like concatenation
+"abcd" +123
+"abcd123" */
